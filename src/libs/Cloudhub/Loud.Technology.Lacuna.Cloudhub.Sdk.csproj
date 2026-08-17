@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>Loud.Technology.Lacuna.Cloudhub.Sdk</AssemblyName>
+    <RootNamespace>Loud.Technology.Lacuna.Cloudhub.Sdk</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Label="NuGet">
+    <PackageId>Lacuna.Cloudhub</PackageId>
+    <Title>Lacuna Cloudhub .NET SDK</Title>
+    <Description>Modern, strongly typed .NET SDK for the Lacuna Cloudhub API, generated from the official OpenAPI specification with AutoSDK.</Description>
+    <PackageTags>lacuna;cloudhub;digital-signature;certificate;trust-service;api;client;sdk;dotnet;openapi;autosdk</PackageTags>
+    <PackageProjectUrl>https://github.com/loud-technology/loud-technology-lacuna-cloudhub-sdk</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/loud-technology/loud-technology-lacuna-cloudhub-sdk.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+</Project>
